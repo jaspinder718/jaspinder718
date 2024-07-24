@@ -1,17 +1,15 @@
 ## Hi, I'm Jaspinder Singh👋
 <a href="https://linkedin.com/in/jaspindersingh2793/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**jaspinder718/jaspinder718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have recently transitioned to a career in Cybersecurity because of my profound interest in technology and admiration for solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in management information systems has led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| SIEM Implementation and Log Analysis           |
+| Network Traffic Monitoring and Attack Detection|
+| Security Automation with Shuffle SOAR          |
+| Scripting and Automation for Threat Mitigation | 
