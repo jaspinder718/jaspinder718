@@ -1,5 +1,5 @@
 ## Hi, I'm Jaspinder Singh👋
-<a href="www.linkedin.com/in/jaspindersingh2793"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jaspindersingh2793/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **jaspinder718/jaspinder718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
